@@ -1,0 +1,4 @@
+{
+    "name": "X-wing",
+    "model": "T-65 X-wing"
+}

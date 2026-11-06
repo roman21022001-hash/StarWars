@@ -1,0 +1,5 @@
+{
+    "name": "Human",
+    "classification": "mammal",
+    "language": "Galactic Basic"
+}

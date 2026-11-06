@@ -1,0 +1,4 @@
+{
+    "name": "Snowspeeder",
+    "model": "T-47 airspeeder"
+}
